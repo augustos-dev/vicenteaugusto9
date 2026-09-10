@@ -19,27 +19,6 @@ Desenvolvedor Full-Stack focado em construir **sistemas escaláveis** e **experi
 
 <br/>
 
-<!--  BLOCO CORINGA #1 — perto do "Sobre Mim"  -->
-<table align="right" width="360">
-  <tr>
-    <td align="center" style="padding: 16px; background-color: #0d1117; border-radius: 12px; border: 1px solid #1e293b;">
-      <img src="https://media4.giphy.com/media/14nmVmTMb4ZjWM/giphy.gif" width="130" alt="Joker Batman TAS"/>
-      <br/><br/>
-      <blockquote align="left">
-        <em>
-        "Por que tão sério? Eu só adicionei um<br/>
-        <strong>índice composto no PostgreSQL</strong><br/>
-        e a query que demorava 2 segundos<br/>
-        agora roda em <strong>4 milissegundos...</strong><br/><br/>
-        HAHAHAHA!"
-        </em>
-        <br/><br/>
-        <!-- — <strong>O Coringa</strong>, após otimizar o banco. -->
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
 ## 🚀 Sobre Mim
 
 ```typescript
@@ -52,8 +31,6 @@ const vicente = {
   disponível:    true,
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -98,38 +75,12 @@ const vicente = {
 
 ## 📁 Projetos em Destaque
 
-<!--  BLOCO CORINGA #2 — perto dos Projetos  -->
-<table align="left" width="360">
-  <tr>
-    <td align="center" style="padding: 16px; background-color: #0d1117; border-radius: 12px; border: 1px solid #1e293b;">
-      <img src="https://media0.giphy.com/media/yD8Yr2U3x5wJi/giphy.gif" width="130" alt="Joker Batman TAS laughing"/>
-      <br/><br/>
-      <blockquote align="left">
-        <em>
-        "Isolamento total de dados por <strong>ID de clínica</strong>,<br/>
-        conformidade com LGPD, zero vazamento...<br/><br/>
-        Sabe o que eu acho de sistemas<br/>
-        <strong>perfeitamente organizados?</strong><br/><br/>
-        Não sei. Nunca vi um antes.<br/>
-        <strong>Até agora. HEHEHEHE.</strong>"
-        </em>
-        <br/><br/>
-        <!-- — <strong>O Coringa</strong>, auditando o OdontoFlow. -->
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ### ⚡ Flow-ERP
 > Sistema robusto para **gestão de inventário e fluxo de caixa**, focado em alta disponibilidade e relatórios precisos.
 
 - 📦 Controle de estoque em tempo real
 - 📊 Relatórios financeiros automatizados
 - 🔐 Arquitetura orientada a performance
-
----
 
 ### 🏥 OdontoFlow
 > Plataforma **multitenant** para clínicas odontológicas — LGPD first, com isolamento total de dados por ID de clínica.
@@ -138,43 +89,12 @@ const vicente = {
 - 🔒 Conformidade com LGPD
 - 🗂️ Isolamento de dados por clínica
 
----
-
 ### 🤖 Bot de Promoções
 > Automação inteligente via **Telegram** para monitoramento de ofertas em tempo real.
 
 - ⚡ Alertas instantâneos de promoções
 - 🔄 Scraping e processamento automatizado
 - 📱 Interface conversacional via Telegram
-
-<br clear="left"/>
-
----
-
-<!--  BLOCO CORINGA #3 — fechamento, antes dos contatos  -->
-<div align="center">
-
-<table width="520">
-  <tr>
-    <td align="center" style="padding: 16px; background-color: #0d1117; border-radius: 12px; border: 1px solid #1e293b;">
-      <img src="https://media1.giphy.com/media/NpXmhGmisLzEY/giphy.gif" width="130" alt="Joker Batman TAS clapping"/>
-      <br/><br/>
-      <blockquote align="left">
-        <em>
-        "Você deployou em produção numa<br/>
-        <strong>sexta-feira às 17h</strong>...<br/><br/>
-        ...e <strong>não quebrou nada.</strong><br/><br/>
-        Você não é louco. Você é pior.<br/>
-        Você é <strong>competente.</strong> HAHAHAHA!"
-        </em>
-        <br/><br/>
-        <!-- — <strong>O Coringa</strong>, assistindo o pipeline passar no verde. -->
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -205,9 +125,6 @@ const vicente = {
 
 <div align="center">
 
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=augustos-dev&theme=tokyonight&background=0d1117&border=1e293b&stroke=1e293b&ring=3b82f6&fire=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=3b82f6&sideLabels=64748b&dates=475569&hide_border=false" alt="GitHub Streak"/>
 
 </div>
@@ -219,4 +136,3 @@ const vicente = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f3460,16213e,1a1a2e,0D1117&height=120&section=footer&fontSize=14&fontColor=475569&desc=Transformando+l%C3%B3gica+em+valor+e+caf%C3%A9+em+c%C3%B3digo.&descColor=475569&descSize=13" width="100%"/>
 
 </div>
-
